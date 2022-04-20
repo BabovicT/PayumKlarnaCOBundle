@@ -19,9 +19,9 @@
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^8.0",
         "pringuin/payum-klarna-co": "^1.0",
-        "coreshop/payum-bundle": "^2.0"
+        "coreshop/payum-bundle": "^3.0"
     },
     "autoload": {
         "psr-4": {
